@@ -39,6 +39,8 @@ See [Cross Build Plugins][Cross-Build-Plugins].
 - sbt-protobuf 0.6.2 <https://github.com/sbt/sbt-protobuf>
 - sbt-contraband 0.3.0-M9: <http://www.scala-sbt.org/contraband/>
 - sbt-git 0.9.3: <https://github.com/sbt/sbt-git>
+- sbt-class-diagram 0.2.1 <https://github.com/xuwei-k/sbt-class-diagram>
+- sbt-scalaprops 0.2.3 <https://github.com/scalaprops/sbt-scalaprops>
 
 ### Plugins available for sbt 1.0.0-M6
 
